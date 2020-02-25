@@ -1,0 +1,2 @@
+# persistence_wasserstein_benchmarking
+Tools for benchmarking implementations of Wassersteing-Kantorovich distance between persistence diagrams
