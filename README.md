@@ -14,7 +14,7 @@ $ make
 $ python generate_diagrams.py -n 50 -N 100
 $
 $ time ./wasserstein_dist_all_pairs -p 2 -q 1 -o hera_result_50.txt data_50/*
-$ time time python python_wasserstein_all_pairs.py -p 2 -q 1 -o py_result_50.txt data_50/*
+$ time python python_wasserstein_all_pairs.py -p 2 -q 1 -o py_result_50.txt data_50/*
 ```
 
 ## Requirements
